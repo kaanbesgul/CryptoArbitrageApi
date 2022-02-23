@@ -24,7 +24,7 @@ mysqldb.all = () => {
             }
         })
     })
-};
+};1
 
 mysqldb.exchanges = () => {
     return new Promise((resolve,reject) => {
@@ -89,4 +89,4 @@ mysqldb.coin = (coin) => {
     })
 }
 
-module.exports = mysqldb;
+module.exports = mysqldb;s
