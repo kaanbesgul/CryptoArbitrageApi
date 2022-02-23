@@ -89,4 +89,4 @@ mysqldb.coin = (coin) => {
     })
 }
 
-module.exports = mysqldb;s
+module.exports = mysqldb;
